@@ -1,6 +1,5 @@
 # foodie
 Food Ordering Website
-<!DOCTYPE html>
 <html>
 
 <head>
